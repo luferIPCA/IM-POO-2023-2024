@@ -1,0 +1,7 @@
+D:\Temp\IM\Aulas\Aula 5\bin\Debug\Aula 5.exe.config
+D:\Temp\IM\Aulas\Aula 5\bin\Debug\Aula 5.exe
+D:\Temp\IM\Aulas\Aula 5\bin\Debug\Aula 5.pdb
+D:\Temp\IM\Aulas\Aula 5\obj\Debug\Aula 5.csproj.AssemblyReference.cache
+D:\Temp\IM\Aulas\Aula 5\obj\Debug\Aula 5.csproj.CoreCompileInputs.cache
+D:\Temp\IM\Aulas\Aula 5\obj\Debug\Aula 5.exe
+D:\Temp\IM\Aulas\Aula 5\obj\Debug\Aula 5.pdb

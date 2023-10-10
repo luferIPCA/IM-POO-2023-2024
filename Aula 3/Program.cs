@@ -7,12 +7,36 @@
 
 using System;
 
+public enum Season
+{
+    Spring,
+    Summer,
+    Autumn,
+    Winter
+}
+
 namespace Aula_3
 {
+    enum TipoMedicamento
+    {
+        ANTIBIOTICO,
+        ANALGESICO,
+        
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            TipoMedicamento tm = TipoMedicamento.ANTIBIOTICO;
+            Console.WriteLine("MEDI: " + tm);
+            Console.WriteLine($"MEDI: {tm}");
+            Console.WriteLine("MEDI: {0}", tm);
+
+            Console.Write("Tipo de Medicamento: ");
+            string aux = Console.ReadLine();
+            int med = Convert.ToInt32(aux);
+            Console.WriteLine($"Medicamento inserido: {(TipoMedicamento)med}");
+
             int x;  //objeto
             x = 3;
 

@@ -122,7 +122,8 @@ namespace Aula_5
         {
             foreach(Medicamento m in medicamentos)
             {
-                if (m.Nome == m1.Nome) return true;
+                //if (m.Nome == m1.Nome) return true;
+                if (m == m1) return true;
                 //if (m1.Nome.Equals(m.Nome)) return true;
                 //if (String.Compare(m1.Nome, m.Nome)==0) return true;
             }
@@ -140,6 +141,34 @@ namespace Aula_5
         public int QuantosMedicamentos()
         {
             return totMedicamentos;
+        }
+
+        public int QuantosMedicamentosExistem(string nome)
+        {
+            int tot = 0;
+            foreach(Medicamento m in medicamentos)
+            {
+                if (m.Nome == nome) tot++;
+            }
+            return tot;
+        }
+
+        public int QuantosMedicamentosExistem(string nome, TipoMedi tipo)
+        {
+            int tot = 0;
+            foreach (Medicamento m in medicamentos)
+            {
+                if (m.Nome == nome && m.Tipo==tipo) tot++;
+            }
+            return tot;
+        }
+
+        public Medicamento[] MedicamentosExistentes
+        {
+            //devolve cópia do original
+            get { return (Medicamento[])medicamentos.Clone(); }
+            //get { return medicamentos; }        //EVITAR
+            //não tem set
         }
         #endregion
 

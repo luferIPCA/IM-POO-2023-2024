@@ -1,0 +1,7 @@
+D:\Temp\POO-IM\Aulas\Aula 5\bin\Debug\Aula 5.exe.config
+D:\Temp\POO-IM\Aulas\Aula 5\bin\Debug\Aula 5.exe
+D:\Temp\POO-IM\Aulas\Aula 5\bin\Debug\Aula 5.pdb
+D:\Temp\POO-IM\Aulas\Aula 5\obj\Debug\Aula 5 - Arrays.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\Aula 5\obj\Debug\Aula 5 - Arrays.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 5\obj\Debug\Aula 5.exe
+D:\Temp\POO-IM\Aulas\Aula 5\obj\Debug\Aula 5.pdb

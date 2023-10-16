@@ -1,4 +1,8 @@
-﻿/* 
+﻿/*
+ * lufer
+ * 
+ * Arrays
+ * https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/arrays#multidimensional-arrays
  * **/
 
 using System;
@@ -58,20 +62,39 @@ namespace Aula_5
 
         static void Main()
         {
-
+            //Cria faarmácia
             Farmacia f1 = new Farmacia();
 
-            Medicamento m1 = new Medicamento("Novo",TipoMedi.ANTIBIOTICO);
+            //Cria medicamentos
+            Medicamento m1 = new Medicamento("Novo",TipoMedi.ANTIBIOTICO, 1);
+            Medicamento m2 = new Medicamento("Novo", TipoMedi.ANTIBIOTICO,2);
+            Medicamento m3 = new Medicamento("Novo3", TipoMedi.ANALGESICO,3);
+
+            //Mostra medicamento
+            //Console.WriteLine("Medicamento: Nome: {0} - Tipo: {1}", m1.Nome, m1.Tipo);
+            //ou
+            Console.WriteLine(m1.ToString());
+
             bool aux = f1.InsereMedicamentoFarmacia(m1);
+            aux = f1.InsereMedicamentoFarmacia(m2);
 
-            f1.ShowMedicamentos();
+            //Mostra todos os medicamentos existentes na farmácia
+            f1.ShowMedicamentos();  
+            //Console.WriteLine("Farmacia:{0}", f1);    //QUal o resultado?
+
+            //Mostra quantos medicamentos existem na farmácia
             Console.WriteLine("Medicamentos na Farmácia:" + f1.QuantosMedicamentos().ToString());
-            Console.WriteLine("Sucesso:" + aux);
+            //ou
+            //Usa método externo para mostrar todas as prateleiras
+            Frontend.ShowMedicamentosConsole(f1.MedicamentosExistentes, f1.QuantosMedicamentos());
 
-            //Farmacia f2 = new Farmacia("Outra farmacia");
+            //Farmacia f2 = new Farmacia("Outra farmacia"); //O que acontece?
 
             Console.ReadKey();
         }
         #endregion
+
     }
+
+    
 }

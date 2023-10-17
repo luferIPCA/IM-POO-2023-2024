@@ -130,6 +130,15 @@ namespace Aula_5
             return false;
         }
 
+        public bool ExisteMedicamentoFarmacia(string nome, TipoMedi tipo)
+        {
+            foreach (Medicamento m in medicamentos)
+            {   
+                if (m.Nome.Equals(nome) && m.Tipo==tipo) return true;
+            }
+            return false;
+        }
+
         public void ShowMedicamentos()
         {
             for(int i=0; i < totMedicamentos; i++)

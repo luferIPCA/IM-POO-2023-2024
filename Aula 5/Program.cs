@@ -6,12 +6,14 @@
  * **/
 
 using System;
+using Aula_6___Armario;
 
 namespace Aula_5
 {
     
     class Program
     {
+        
         #region ABORDAGEM1
         //Variavel global
         //static Medicamento[] farmacia;
@@ -101,7 +103,7 @@ namespace Aula_5
         /// Dados estão num array bidimensional, na classe "Armario"
         /// </summary>
         static void Main()
-        {
+        { 
             //Cria medicamentos
             Medicamento m1 = new Medicamento("Novo", TipoMedi.ANTIBIOTICO, 1);
             Medicamento m2 = new Medicamento("Novo", TipoMedi.ANTIBIOTICO, 2);
@@ -128,6 +130,11 @@ namespace Aula_5
             Console.WriteLine("Total com nome {0} = {1} " , "Novo",Armario.QuantosMedicamentosNomeExistemFarmacia("Novo"));
             Console.WriteLine("Total de {0}: {1}", TipoMedi.ANTIBIOTICO, Armario.QuantosMedicamentosTipoExistemFarmacia(TipoMedi.ANTIBIOTICO));
 
+
+            //Jagged Array: TPC: explorar o armário com um jagged array?
+            int[][] valores = new int[3][];
+            valores[0] = new int[] { 12,45,2};
+            valores[1] = new int[10];
 
             Console.ReadKey();
         }

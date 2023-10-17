@@ -114,6 +114,7 @@ namespace Aula_5
         {
             for(int i=0; i<VERT; i++)
             {
+                //CUIDADO COM OS null!!!
                 if (prateleiras[(int)tipo, i].Nome == nome) return true;
             }
             return false;

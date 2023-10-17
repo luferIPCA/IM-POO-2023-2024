@@ -1,0 +1,7 @@
+D:\Temp\LP2-ESI\Aulas\Aula2\obj\Debug\Aula2 - Arrays.csprojAssemblyReference.cache
+D:\Temp\LP2-ESI\Aulas\Aula2\obj\Debug\Aula2 - Arrays.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\Aula2\obj\Debug\Aula2.exe
+D:\Temp\LP2-ESI\Aulas\Aula2\obj\Debug\Aula2.pdb
+D:\Temp\LP2-ESI\Aulas\Aula2\bin\Debug\Aula2.exe.config
+D:\Temp\LP2-ESI\Aulas\Aula2\bin\Debug\Aula2.exe
+D:\Temp\LP2-ESI\Aulas\Aula2\bin\Debug\Aula2.pdb

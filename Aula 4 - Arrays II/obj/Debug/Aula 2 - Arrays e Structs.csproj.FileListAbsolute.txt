@@ -1,0 +1,6 @@
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\bin\Debug\Aula 2 - Arrays e Structs.exe.config
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\bin\Debug\Aula 2 - Arrays e Structs.exe
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\bin\Debug\Aula 2 - Arrays e Structs.pdb
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\obj\Debug\Aula 2 - Arrays e Structs.csproj.CoreCompileInputs.cache
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\obj\Debug\Aula 2 - Arrays e Structs.exe
+D:\Temp\LP2-ESI\Aulas\Aula 2 - Structs\obj\Debug\Aula 2 - Arrays e Structs.pdb

@@ -1,0 +1,7 @@
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\bin\Debug\Aula 2 - Arrays e Structs.exe.config
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\bin\Debug\Aula 2 - Arrays e Structs.exe
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\bin\Debug\Aula 2 - Arrays e Structs.pdb
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\obj\Debug\Aula 4 - Arrays II.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\obj\Debug\Aula 4 - Arrays II.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\obj\Debug\Aula 2 - Arrays e Structs.exe
+D:\Temp\POO-IM\Aulas\Aula 4 - Arrays II\obj\Debug\Aula 2 - Arrays e Structs.pdb

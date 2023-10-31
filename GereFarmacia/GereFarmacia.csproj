@@ -5,4 +5,13 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Armario">
+      <HintPath>..\Armario\bin\Debug\net5.0\Armario.dll</HintPath>
+    </Reference>
+    <Reference Include="Farmacia">
+      <HintPath>..\Armario\bin\Debug\net5.0\Farmacia.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

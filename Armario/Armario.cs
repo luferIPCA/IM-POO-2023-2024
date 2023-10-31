@@ -9,6 +9,7 @@
 *	</description>
 **/
 using System;
+using Farmacia; //Integrar DLL externa
 
 namespace Armario
 {
@@ -47,8 +48,6 @@ namespace Armario
 
         #region Properties
         #endregion
-
-
 
         #region Overrides
         #endregion

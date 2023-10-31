@@ -1,0 +1,4 @@
+D:\Temp\POO-IM\Aulas\Aula 4\obj\Debug\Aula 4 - Arrays.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\Aula 4\obj\Debug\Aula 4 - Arrays.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 4\obj\Debug\Aula 4.exe
+D:\Temp\POO-IM\Aulas\Aula 4\obj\Debug\Aula 4.pdb

@@ -1,12 +1,16 @@
 ﻿using System;
+using Armario;
+using Farmacia;
+
 
 namespace GereFarmacia
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Medicamento m = new Medicamento();
         }
     }
 }

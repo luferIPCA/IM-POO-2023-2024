@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="Farmacia">
+      <HintPath>..\Farmacia\bin\Debug\net5.0\Farmacia.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

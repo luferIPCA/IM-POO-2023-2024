@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aula_8___POO.Mesa">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Mesa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_8___POO.Mobiliario">
+    <Position X="4.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAYAAAAAAAAAIAAAAAAACAAAAAABIA=</HashCode>
+      <FileName>Mobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_8___POO.Quadro">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Quadro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_8___POO.Cadeira">
+    <Position X="8" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cadeira.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_8___POO.QuaseMesaCabeceira" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>QuaseMesaCabeceira.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TipoImob" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Mobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

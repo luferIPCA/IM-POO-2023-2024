@@ -1,0 +1,15 @@
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.exe
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.deps.json
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.runtimeconfig.json
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.runtimeconfig.dev.json
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.dll
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\ref\Aula 8 - POO.dll
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\bin\Debug\net5.0\Aula 8 - POO.pdb
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.dll
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\ref\Aula 8 - POO.dll
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.pdb
+D:\Temp\POO-IM\Aulas\Aula 8 - POO\obj\Debug\net5.0\Aula 8 - POO.genruntimeconfig.cache

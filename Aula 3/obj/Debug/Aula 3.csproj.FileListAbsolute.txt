@@ -5,3 +5,10 @@ D:\Temp\IM\Aulas\Aula 3\obj\Debug\Aula 3.csproj.AssemblyReference.cache
 D:\Temp\IM\Aulas\Aula 3\obj\Debug\Aula 3.csproj.CoreCompileInputs.cache
 D:\Temp\IM\Aulas\Aula 3\obj\Debug\Aula 3.exe
 D:\Temp\IM\Aulas\Aula 3\obj\Debug\Aula 3.pdb
+D:\Temp\POO-IM\Aulas\Aula 3\bin\Debug\Aula 3.exe.config
+D:\Temp\POO-IM\Aulas\Aula 3\bin\Debug\Aula 3.exe
+D:\Temp\POO-IM\Aulas\Aula 3\bin\Debug\Aula 3.pdb
+D:\Temp\POO-IM\Aulas\Aula 3\obj\Debug\Aula 3.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\Aula 3\obj\Debug\Aula 3.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\Aula 3\obj\Debug\Aula 3.exe
+D:\Temp\POO-IM\Aulas\Aula 3\obj\Debug\Aula 3.pdb

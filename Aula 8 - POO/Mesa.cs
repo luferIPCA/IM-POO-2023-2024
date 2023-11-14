@@ -17,7 +17,7 @@ namespace Aula_8___POO
     /// </summary>
     /// <remarks></remarks>
     /// <example></example>
-    public class Mesa : Mobiliario
+    public class Mesa : Mobiliario, IComparable
     {
         #region Attributes
         #endregion
@@ -38,7 +38,6 @@ namespace Aula_8___POO
         #region Properties
         #endregion
 
-
         #region Overrides
         #endregion
 
@@ -53,6 +52,26 @@ namespace Aula_8___POO
             return "FILHO:" + base.MostraNumSerieMobiliario();
         }
 
+        /// <summary>
+        /// Comparador de Mobiliário
+        /// </summary>
+        /// <param name="m"></param>
+        /// <returns></returns>
+        public int CompareTo( Object m)
+        {
+            if(object.ReferenceEquals(m,null)==true)
+            if (m.GetType() != typeof(Mobiliario))
+                throw new Exception("Invalid Object to compare");
+            Mobiliario aux = m as Mobiliario;
+            if (this.Ano > aux.Ano) return 1;
+            else
+                if (this.Ano < aux.Ano) return -1;
+            return 0;
+
+            //ou
+            //return this.Ano.CompareTo(aux.Ano);
+
+        }
 
         #endregion
 

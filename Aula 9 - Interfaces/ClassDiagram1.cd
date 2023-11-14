@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Aula_9_Interfaces.Casa">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Casa.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aula_9_Interfaces.Coisas">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Mobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aula_9_Interfaces.Mobiliario">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAABCAAAQAAAAAAAAAAIQAAAAAAAAQAAAAAAAQAAAQ=</HashCode>
+      <FileName>Mobiliario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aula_9_Interfaces.ForAll">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ForAll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Aula_9_Interfaces.IMobiliario">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Aula_9_Interfaces.IHistorico">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>IMobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TipoCasa" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAEAAAAAAACgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Casa.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TipoImob" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Mobiliario.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

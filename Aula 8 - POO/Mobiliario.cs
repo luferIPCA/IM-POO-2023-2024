@@ -24,6 +24,8 @@ namespace Aula_8___POO
         #region Attributes|Edtado
 
         int numSerie;
+        //protected int ano;
+        int ano;
         static int numGlobalSerie;
 
         #endregion
@@ -62,6 +64,10 @@ namespace Aula_8___POO
             set { numSerie = value; }
         }
 
+        public int Ano
+        {
+            get;set;
+        }
         public static string MostraDetalhesMobiliario()
         {
             return "Total Objetos: " + numGlobalSerie;

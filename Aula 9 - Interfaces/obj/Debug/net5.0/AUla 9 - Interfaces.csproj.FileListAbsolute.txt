@@ -1,0 +1,16 @@
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.exe
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.deps.json
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.runtimeconfig.json
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.runtimeconfig.dev.json
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.dll
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\ref\AUla 9 - Interfaces.dll
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\bin\Debug\net5.0\AUla 9 - Interfaces.pdb
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.dll
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\ref\AUla 9 - Interfaces.dll
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.pdb
+D:\Temp\POO-IM\Aulas\AUla 9 - Interfaces\obj\Debug\net5.0\AUla 9 - Interfaces.genruntimeconfig.cache

@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farmacia", "ProjetoAula\V1\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GereFarmacia", "ProjetoAula\V1\GereFarmacia\GereFarmacia.csproj", "{3F49505F-9802-46EB-B3C8-D64D24304A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 10 - Collections", "Aula 10 - Collections\Aula 10 - Collections.csproj", "{0AE4C9DA-3D96-40A5-861B-42F8157D5F1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 10 - Collections", "Aula 10 - Collections\Aula 10 - Collections.csproj", "{0AE4C9DA-3D96-40A5-861B-42F8157D5F1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 11 - Collections", "Aula 11 - Collections\Aula 11 - Collections.csproj", "{D59C2ED9-CEAA-483D-8B09-043D386480F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{0AE4C9DA-3D96-40A5-861B-42F8157D5F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE4C9DA-3D96-40A5-861B-42F8157D5F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE4C9DA-3D96-40A5-861B-42F8157D5F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

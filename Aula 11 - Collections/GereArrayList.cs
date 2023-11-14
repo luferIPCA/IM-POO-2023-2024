@@ -1,10 +1,10 @@
 ﻿/*
-*	<copyright file="_2017_04_07___Aula_9___Collections.cs" company="IPCA">
-*		Copyright (c) 2021 All Rights Reserved
+*	<copyright file="GereArrayList.cs" company="IPCA">
+*		Copyright (c) 2023 All Rights Reserved
 *	</copyright>
 * 	<author>lufer</author>
-*   <date>4/16/2021 11:09:05 AM</date>
-*	<description></description>
+*   <date>2023</date>
+*	<description></description> 
 **/
 
 using System.Collections;

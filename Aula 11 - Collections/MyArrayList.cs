@@ -6,7 +6,7 @@
  * Enumerators
  * 
  * LPII
- * by lufer
+ * by lufer 
  * */
 using System;
 using System.Collections;

@@ -1,7 +1,7 @@
 ﻿/*
  * * by lufer
  * Array
- * ArrayList
+ * ArrayList 
  * Etc.
  * Ordenar MyCollections
  *  1º Criar Classe X:IComparer

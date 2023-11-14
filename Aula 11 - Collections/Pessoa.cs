@@ -1,9 +1,9 @@
 ﻿/*
-*	<copyright file="Collections.cs" company="IPCA">
-*		Copyright (c) 2021 All Rights Reserved
+*	<copyright file="Pessoa.cs" company="IPCA">
+*		Copyright (c) 2023 All Rights Reserved
 *	</copyright>
 * 	<author>lufer</author>
-*   <date>4/16/2021 11:10:44 AM</date>
+*   <date>2023</date>
 *	<description></description>
 **/
 using System;

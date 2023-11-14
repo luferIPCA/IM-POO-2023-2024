@@ -1,7 +1,7 @@
 ﻿/**
  * Manipulação de HashTables
  * Gestão de colisões
- * Funções de Hash
+ * Funções de Hash 
  * */
 
 using System.Collections;

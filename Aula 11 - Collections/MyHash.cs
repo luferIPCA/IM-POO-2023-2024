@@ -9,7 +9,7 @@
  * 
  * Exemplo: converter "números de BI" num número de acesso único!
  * LPII
- * by lufer
+ * by lufer 
  * */
 
 using System.Collections;

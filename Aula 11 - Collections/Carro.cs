@@ -1,6 +1,6 @@
 ﻿/*
 *  -------------------------------------------------
-* <copyright file="Carro.cs" company="IPCA"/>
+* <copyright file="Carro.cs" company="IPCA"/> 
 * <summary>
 *	LP2 
 * </summary>

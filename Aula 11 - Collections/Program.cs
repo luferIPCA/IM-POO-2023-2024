@@ -9,7 +9,7 @@
  *  3º Usar: arrayList.Sort(new X()) ou
  *  4º Usar: arrayList.Sort(new X(ENUMERADO))
  *  
- * URL: 
+ * URL:  
  * http://www.java2s.com/Tutorial/CSharp/CatalogCSharp.htm
  * http://www.tutorialsteacher.com/csharp/csharp-queue
  * */

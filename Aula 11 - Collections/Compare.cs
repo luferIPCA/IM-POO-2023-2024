@@ -67,7 +67,7 @@ namespace MyCollections
         /// <param name="x"></param>
         /// <param name="y"></param>
         /// <returns></returns>
-        public int Compare(object x, object y)
+        public int Compare(object x, object? y)
         {
             //Se algum é null
             if (object.ReferenceEquals(x, null) || object.ReferenceEquals(y, null))

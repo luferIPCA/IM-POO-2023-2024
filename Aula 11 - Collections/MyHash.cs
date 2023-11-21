@@ -66,6 +66,7 @@ namespace MyCollections
         {
             char[] aux = s.ToCharArray();
             int key = 0;
+
             foreach(char c in aux)
             {
                 key += (int)c;

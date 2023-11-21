@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 10 - Collections", "Au
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 11 - Collections", "Aula 11 - Collections\Aula 11 - Collections.csproj", "{D59C2ED9-CEAA-483D-8B09-043D386480F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacia", "ProjetoAula\V2\Farmacia\Farmacia.csproj", "{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D59C2ED9-CEAA-483D-8B09-043D386480F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -116,6 +122,7 @@ Global
 		{71F6F1E8-E078-4A35-BDCA-3B6B23A504A2} = {32F70BFD-9F3C-4161-832E-A9F2BBDCED9D}
 		{AFD09BFE-3157-44BD-BCA2-7A773FCD6183} = {32F70BFD-9F3C-4161-832E-A9F2BBDCED9D}
 		{3F49505F-9802-46EB-B3C8-D64D24304A72} = {32F70BFD-9F3C-4161-832E-A9F2BBDCED9D}
+		{DA798E00-5E9D-4561-94C0-3CB44DF8AC2A} = {7ABC5D95-D953-42B8-B290-943CC19C43F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBC944CF-8713-426C-B03B-3BB024118675}

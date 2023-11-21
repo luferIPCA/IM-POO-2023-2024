@@ -1,0 +1,14 @@
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.exe
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.deps.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.runtimeconfig.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.runtimeconfig.dev.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\Farmacia.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.genruntimeconfig.cache

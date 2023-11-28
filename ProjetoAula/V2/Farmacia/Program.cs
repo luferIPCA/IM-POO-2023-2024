@@ -1,5 +1,7 @@
 ﻿using System;
 
+using FrontEnd;
+
 namespace Farmacia
 {
     class Program
@@ -41,6 +43,7 @@ namespace Farmacia
 
             #region Farmacia com HashTable
 
+            Console.WriteLine("FARMACIA COOM HASH!!!");
             FarmaciaHash fh = new FarmaciaHash();
             fh.InsereMedicamentoFarmacia(m1);
             fh.InsereMedicamentoFarmacia(m2);
@@ -63,7 +66,11 @@ namespace Farmacia
 
             #endregion
 
-            Console.WriteLine("Done!");
+            IO.ShowString("Done!");
+
+            
+
+            //TPC: Quantos medicamentos de determinado tipo existem
         }
     }
 }

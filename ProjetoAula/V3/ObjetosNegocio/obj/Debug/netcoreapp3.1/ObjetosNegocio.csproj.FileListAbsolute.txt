@@ -1,0 +1,10 @@
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\bin\Debug\netcoreapp3.1\ObjetosNegocio.deps.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\bin\Debug\netcoreapp3.1\ObjetosNegocio.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\bin\Debug\netcoreapp3.1\ObjetosNegocio.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\ObjetosNegocio\obj\Debug\netcoreapp3.1\ObjetosNegocio.pdb

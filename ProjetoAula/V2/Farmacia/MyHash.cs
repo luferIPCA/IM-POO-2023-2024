@@ -10,6 +10,7 @@ using System.Collections;
 using System;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using FrontEnd;
 
 namespace Farmacia
 {
@@ -105,12 +106,15 @@ namespace Farmacia
             {
                 int aux = (int)k;
                 ArrayList valores = ((ArrayList)hash[aux]);
-                Console.WriteLine("Key: " + aux.ToString());
-                foreach (object v in valores)
-                {
-                    Medicamento m = (Medicamento)(v);
-                    Console.WriteLine(m.Nome);
-                }
+                
+                IO.ShowArrayList(valores);
+
+                //Console.WriteLine("Key: " + aux.ToString());
+                //foreach (object v in valores)
+                //{
+                //    Medicamento m = (Medicamento)(v);
+                //    Console.WriteLine(m.Nome);
+                //}
             }
             return true;
         }

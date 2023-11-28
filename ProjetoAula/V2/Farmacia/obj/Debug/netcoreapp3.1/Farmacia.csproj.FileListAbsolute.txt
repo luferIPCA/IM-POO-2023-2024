@@ -12,3 +12,6 @@ D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.cs
 D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.dll
 D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.pdb
 D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.genruntimeconfig.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\FrontEnd.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\bin\Debug\netcoreapp3.1\FrontEnd.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\Farmacia\obj\Debug\netcoreapp3.1\Farmacia.csproj.CopyComplete

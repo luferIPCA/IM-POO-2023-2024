@@ -1,0 +1,6 @@
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\bin\Debug\FrontEnd.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\bin\Debug\FrontEnd.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\obj\Debug\FrontEnd.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\obj\Debug\FrontEnd.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V2\FrontEnd\obj\Debug\FrontEnd.pdb

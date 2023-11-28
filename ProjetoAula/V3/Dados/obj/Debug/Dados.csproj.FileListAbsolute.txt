@@ -1,0 +1,9 @@
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\bin\Debug\Dados.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\bin\Debug\Dados.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\bin\Debug\ObjetosNegocio.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\bin\Debug\ObjetosNegocio.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\obj\Debug\Dados.csproj.CopyComplete
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\obj\Debug\Dados.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\Dados\obj\Debug\Dados.pdb

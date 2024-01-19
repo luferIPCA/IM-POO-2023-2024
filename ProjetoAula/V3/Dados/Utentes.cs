@@ -53,11 +53,13 @@ namespace Dados
         {
             if (!utentes.ContainsKey(ano))
                 utentes.Add(ano, new List<Utente>());
-            if (!utentes[ano].Contains(u)) {
+            if (!utentes[ano].Contains(u))
+            {
                 utentes[ano].Add(u);
                 return true;
             }
             return false;
+        }
         #endregion
 
         #region Destructor

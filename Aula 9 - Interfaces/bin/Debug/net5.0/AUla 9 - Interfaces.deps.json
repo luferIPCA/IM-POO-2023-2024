@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "AUla 9 - Interfaces/1.0.0": {
+      "Aula 9 - Interfaces/1.0.0": {
         "runtime": {
-          "AUla 9 - Interfaces.dll": {}
+          "Aula 9 - Interfaces.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AUla 9 - Interfaces/1.0.0": {
+    "Aula 9 - Interfaces/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

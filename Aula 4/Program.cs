@@ -35,7 +35,7 @@ namespace Aula_4
                 Console.WriteLine($"Valores[{i}]={valores[i].ToString()}");
             }
 
-            Console.WriteLine("Tamanho do Array: " + valores.Length.ToString()):
+            Console.WriteLine("Tamanho do Array: " + valores.Length.ToString());
             
             foreach(int i in valores)
             {

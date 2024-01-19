@@ -23,7 +23,7 @@ namespace Farmacia
     /// </summary>
     /// <remarks></remarks>
     /// <example></example>
-    public class Farmacia
+    public class MainFarmacia
     {
         #region Attributes
         const int MAX = 5000;
@@ -41,7 +41,7 @@ namespace Farmacia
         /// <summary>
         /// The default Constructor.
         /// </summary>
-        public Farmacia()
+        public MainFarmacia()
         {
             totMedicamentos = 0;
             nome = "Nova";
@@ -87,6 +87,10 @@ namespace Farmacia
         }
 
         
+        public int TotalMedicamentos()
+        {
+            return medi.Count;
+        }
 
         public void ShowMedicamentos()
         {
@@ -107,7 +111,7 @@ namespace Farmacia
         /// <summary>
         /// The destructor.
         /// </summary>
-        ~Farmacia()
+        ~MainFarmacia()
         {
         }
         #endregion

@@ -13,3 +13,4 @@ D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collection
 D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\ref\Aula 11 - Collections.dll
 D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.pdb
 D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.genruntimeconfig.cache
+D:\Temp\POO-IM\Aulas\Aula 11 - Collections\obj\Debug\net5.0\Aula 11 - Collections.csproj.AssemblyReference.cache

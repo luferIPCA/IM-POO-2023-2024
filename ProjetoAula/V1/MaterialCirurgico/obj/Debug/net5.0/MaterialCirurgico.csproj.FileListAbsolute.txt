@@ -1,0 +1,12 @@
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\bin\Debug\net5.0\MaterialCirurgico.deps.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\bin\Debug\net5.0\MaterialCirurgico.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\bin\Debug\net5.0\ref\MaterialCirurgico.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\bin\Debug\net5.0\MaterialCirurgico.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\ref\MaterialCirurgico.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\MaterialCirurgico\obj\Debug\net5.0\MaterialCirurgico.pdb

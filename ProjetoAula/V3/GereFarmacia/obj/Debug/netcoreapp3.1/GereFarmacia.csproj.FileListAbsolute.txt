@@ -19,3 +19,5 @@ D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\obj\Debug\netcoreapp3.1\GereFar
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\obj\Debug\netcoreapp3.1\GereFarmacia.dll
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\obj\Debug\netcoreapp3.1\GereFarmacia.pdb
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\obj\Debug\netcoreapp3.1\GereFarmacia.genruntimeconfig.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\bin\Debug\netcoreapp3.1\Validacoes.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\GereFarmacia\bin\Debug\netcoreapp3.1\Validacoes.pdb

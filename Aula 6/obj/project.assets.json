@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Temp\\POO-IM\\Aulas\\Aula 6\\Aula 6.csproj",
-      "projectName": "Aula 6",
-      "projectPath": "D:\\Temp\\POO-IM\\Aulas\\Aula 6\\Aula 6.csproj",
+      "projectUniqueName": "D:\\Temp\\POO-IM\\Aulas\\Aula 6\\Aula 6 - Ref Out.csproj",
+      "projectName": "Aula 6 - Ref Out",
+      "projectPath": "D:\\Temp\\POO-IM\\Aulas\\Aula 6\\Aula 6 - Ref Out.csproj",
       "packagesPath": "C:\\Users\\lufer\\.nuget\\packages\\",
       "outputPath": "D:\\Temp\\POO-IM\\Aulas\\Aula 6\\obj\\",
       "projectStyle": "PackageReference",

@@ -6,7 +6,7 @@
  * **/
 
 using System;
-using Aula_6___Armario;
+//using Aula_6;
 
 namespace Aula_5
 {

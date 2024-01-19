@@ -1,0 +1,14 @@
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.exe.config
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.exe
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.pdb
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\2020-05-22 - Aula 20- LINQ.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\Aula 14 - LINQ.exe
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\Aula 14 - LINQ.pdb
+D:\Temp\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\2020-05-22 - Aula 20- LINQ.csprojAssemblyReference.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.exe.config
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\bin\Debug\Aula 14 - LINQ.pdb
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\2020-05-22 - Aula 20- LINQ.csprojAssemblyReference.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\2020-05-22 - Aula 20- LINQ.csproj.CoreCompileInputs.cache
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\Aula 14 - LINQ.exe
+D:\Temp\Aulas 2019-2020 - LP2\Aulas\2020-05-22 - Aula 20- LINQ\obj\Debug\Aula 14 - LINQ.pdb

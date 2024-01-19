@@ -1,0 +1,6 @@
+C:\Temp\LP2\Aulas\Aula18-LINQ\bin\Debug\_LINQ.exe.config
+C:\Temp\LP2\Aulas\Aula18-LINQ\bin\Debug\_LINQ.exe
+C:\Temp\LP2\Aulas\Aula18-LINQ\bin\Debug\_LINQ.pdb
+C:\Temp\LP2\Aulas\Aula18-LINQ\obj\Debug\Aula18-LINQ.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\Aula18-LINQ\obj\Debug\_LINQ.exe
+C:\Temp\LP2\Aulas\Aula18-LINQ\obj\Debug\_LINQ.pdb

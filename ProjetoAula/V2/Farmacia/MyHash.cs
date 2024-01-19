@@ -82,7 +82,7 @@ namespace Farmacia
             {
                 hash.Add(valorHash, new ArrayList());
             }
-            //insere novo medicamento
+            //insere novo medicamento...se não existir!!
             ((ArrayList)(hash[valorHash])).Add(x);
             return true;
             //return false  - verficar se já existe e não admitir repetidos x

@@ -24,7 +24,7 @@ namespace Aula_10___Collections
     /// </summary>
     /// <remarks></remarks>
     /// <example></example>
-    public class Medicamento : IComparable, IComparer
+    public class Medicamento : IComparer
     {
         #region Attributes
 

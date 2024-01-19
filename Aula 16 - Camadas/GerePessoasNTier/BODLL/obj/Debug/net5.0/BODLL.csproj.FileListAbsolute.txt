@@ -1,0 +1,23 @@
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.deps.json
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\ref\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\bin\Debug\net5.0\BODLL.pdb
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfoInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfo.cs
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.csproj.CoreCompileInputs.cache
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\ref\BODLL.dll
+C:\Temp\LP2\Aulas\SemCamadas\BODLL\obj\Debug\net5.0\BODLL.pdb
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\bin\Debug\net5.0\BODLL.deps.json
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\bin\Debug\net5.0\BODLL.dll
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\bin\Debug\net5.0\ref\BODLL.dll
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\bin\Debug\net5.0\BODLL.pdb
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.AssemblyInfo.cs
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.dll
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\ref\BODLL.dll
+D:\Temp\POO-IM\Aula 13 - Camadas\NTier\GerePessoasNTier\BODLL\obj\Debug\net5.0\BODLL.pdb

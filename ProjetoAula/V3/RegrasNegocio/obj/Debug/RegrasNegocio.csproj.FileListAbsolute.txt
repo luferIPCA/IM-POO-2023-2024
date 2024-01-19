@@ -9,3 +9,5 @@ D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\obj\Debug\RegrasNegocio.csproj
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\obj\Debug\RegrasNegocio.dll
 D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\bin\Debug\Validacoes.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V3\RegrasNegocio\bin\Debug\Validacoes.pdb

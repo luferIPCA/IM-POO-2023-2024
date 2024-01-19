@@ -10,3 +10,15 @@ D:\Temp\POO-IM\Aulas\Farmacia\obj\Debug\net5.0\Farmacia.csproj.CoreCompileInputs
 D:\Temp\POO-IM\Aulas\Farmacia\obj\Debug\net5.0\Farmacia.dll
 D:\Temp\POO-IM\Aulas\Farmacia\obj\Debug\net5.0\ref\Farmacia.dll
 D:\Temp\POO-IM\Aulas\Farmacia\obj\Debug\net5.0\Farmacia.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\bin\Debug\net5.0\Farmacia.deps.json
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\bin\Debug\net5.0\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\bin\Debug\net5.0\ref\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\bin\Debug\net5.0\Farmacia.pdb
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.csproj.AssemblyReference.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.AssemblyInfoInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.AssemblyInfo.cs
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.csproj.CoreCompileInputs.cache
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\ref\Farmacia.dll
+D:\Temp\POO-IM\Aulas\ProjetoAula\V1\Farmacia\obj\Debug\net5.0\Farmacia.pdb

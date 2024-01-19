@@ -11,7 +11,7 @@ namespace Farmacia
 
             #region Farmacia com ArrayList
 
-            Farmacia f = new Farmacia();
+            MainFarmacia f = new MainFarmacia();
 
             Medicamento m1 = new Medicamento("X", TipoMedi.ANALGESICO,DateTime.Now);
             Medicamento m2 = new Medicamento("Y", TipoMedi.ANALGESICO, DateTime.Now);
